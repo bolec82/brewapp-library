@@ -1,0 +1,730 @@
+Zapsáno: 212
+Přeskočeno: 113
+
+== Přeskočeno ==
+ab19.json: chybí target_og
+diydog-102: IBU mimo toleranci ±5 % (cíl 30,0, vychází 26,5 i s faktorem alfy 0,3–3,0)
+diydog-107: IBU mimo toleranci ±5 % (cíl 70,0, vychází 53,7 i s faktorem alfy 0,3–3,0)
+diydog-118: OG: výtěžnost mimo 30–100 % (cíl 1,068, při 100 % vychází 1,049)
+diydog-120: IBU mimo toleranci ±5 % (cíl 80,0, vychází 71,5 i s faktorem alfy 0,3–3,0)
+diydog-127: OG: výtěžnost mimo 30–100 % (cíl 1,013, při 30 % vychází 1,030)
+diydog-128: OG: výtěžnost mimo 30–100 % (cíl 1,060, při 30 % vychází 1,071)
+diydog-129: IBU mimo toleranci ±5 % (cíl 85,0, vychází 61,6 i s faktorem alfy 0,3–3,0)
+diydog-130: IBU mimo toleranci ±5 % (cíl 20,0, vychází 13,2 i s faktorem alfy 0,3–3,0)
+diydog-131: OG: výtěžnost mimo 30–100 % (cíl 1,013, při 30 % vychází 1,030)
+diydog-132: IBU mimo toleranci ±5 % (cíl 30,0, vychází 18,4 i s faktorem alfy 0,3–3,0)
+diydog-135: IBU mimo toleranci ±5 % (cíl 38,0, vychází 26,1 i s faktorem alfy 0,3–3,0)
+diydog-137: IBU mimo toleranci ±5 % (cíl 1085,0, vychází 198,4 i s faktorem alfy 0,3–3,0)
+diydog-147: IBU mimo toleranci ±5 % (cíl 35,0, vychází 67,1 i s faktorem alfy 0,3–3,0)
+diydog-149: IBU mimo toleranci ±5 % (cíl 14,0, vychází 0,0 i s faktorem alfy 0,3–3,0)
+diydog-15: IBU mimo toleranci ±5 % (cíl 50,0, vychází 24,5 i s faktorem alfy 0,3–3,0)
+diydog-152: IBU mimo toleranci ±5 % (cíl 65,0, vychází 36,7 i s faktorem alfy 0,3–3,0)
+diydog-154: OG: výtěžnost mimo 30–100 % (cíl 1,043, při 30 % vychází 1,055)
+diydog-156: IBU mimo toleranci ±5 % (cíl 70,0, vychází 53,7 i s faktorem alfy 0,3–3,0)
+diydog-159: OG: výtěžnost mimo 30–100 % (cíl 1,156, při 100 % vychází 1,103)
+diydog-160: IBU mimo toleranci ±5 % (cíl 100,0, vychází 24,5 i s faktorem alfy 0,3–3,0)
+diydog-163: OG: výtěžnost mimo 30–100 % (cíl 1,043, při 30 % vychází 1,057)
+diydog-164: IBU mimo toleranci ±5 % (cíl 100,0, vychází 87,4 i s faktorem alfy 0,3–3,0)
+diydog-168: IBU mimo toleranci ±5 % (cíl 250,0, vychází 211,2 i s faktorem alfy 0,3–3,0)
+diydog-17: IBU mimo toleranci ±5 % (cíl 150,0, vychází 84,3 i s faktorem alfy 0,3–3,0)
+diydog-172: IBU mimo toleranci ±5 % (cíl 50,0, vychází 29,4 i s faktorem alfy 0,3–3,0)
+diydog-178: IBU mimo toleranci ±5 % (cíl 70,0, vychází 55,7 i s faktorem alfy 0,3–3,0)
+diydog-180: OG: výtěžnost mimo 30–100 % (cíl 1,027, při 30 % vychází 1,032)
+diydog-181: IBU mimo toleranci ±5 % (cíl 70,0, vychází 52,8 i s faktorem alfy 0,3–3,0)
+diydog-183: IBU mimo toleranci ±5 % (cíl 25,0, vychází 3,0 i s faktorem alfy 0,3–3,0)
+diydog-185: IBU mimo toleranci ±5 % (cíl 1157,0, vychází 165,3 i s faktorem alfy 0,3–3,0)
+diydog-19: IBU mimo toleranci ±5 % (cíl 70,0, vychází 37,3 i s faktorem alfy 0,3–3,0)
+diydog-193: OG: výtěžnost mimo 30–100 % (cíl 1,007, při 30 % vychází 1,037)
+diydog-197: IBU mimo toleranci ±5 % (cíl 45,0, vychází 28,8 i s faktorem alfy 0,3–3,0)
+diydog-201: IBU mimo toleranci ±5 % (cíl 70,0, vychází 44,6 i s faktorem alfy 0,3–3,0)
+diydog-209: IBU mimo toleranci ±5 % (cíl 55,0, vychází 48,4 i s faktorem alfy 0,3–3,0)
+diydog-212: IBU mimo toleranci ±5 % (cíl 40,0, vychází 36,7 i s faktorem alfy 0,3–3,0)
+diydog-213: IBU mimo toleranci ±5 % (cíl 70,0, vychází 33,4 i s faktorem alfy 0,3–3,0)
+diydog-214: OG: výtěžnost mimo 30–100 % (cíl 1,008, při 30 % vychází 1,022)
+diydog-216: IBU mimo toleranci ±5 % (cíl 85,0, vychází 67,2 i s faktorem alfy 0,3–3,0)
+diydog-218: IBU mimo toleranci ±5 % (cíl 250,0, vychází 211,2 i s faktorem alfy 0,3–3,0)
+diydog-219: OG: výtěžnost mimo 30–100 % (cíl 1,088, při 30 % vychází 8,940)
+diydog-221: OG: výtěžnost mimo 30–100 % (cíl 1,007, při 30 % vychází 1,031)
+diydog-222: OG: výtěžnost mimo 30–100 % (cíl 1,015, při 30 % vychází 1,064)
+diydog-223: OG: výtěžnost mimo 30–100 % (cíl 1,008, při 30 % vychází 1,033)
+diydog-224: OG: výtěžnost mimo 30–100 % (cíl 1,025, při 30 % vychází 1,026)
+diydog-225: OG: výtěžnost mimo 30–100 % (cíl 1,015, při 30 % vychází 1,023)
+diydog-226: IBU mimo toleranci ±5 % (cíl 250,0, vychází 211,2 i s faktorem alfy 0,3–3,0)
+diydog-227: OG: výtěžnost mimo 30–100 % (cíl 1,016, při 30 % vychází 1,041)
+diydog-228: OG: výtěžnost mimo 30–100 % (cíl 1,010, při 30 % vychází 1,057)
+diydog-229: IBU mimo toleranci ±5 % (cíl 250,0, vychází 211,2 i s faktorem alfy 0,3–3,0)
+diydog-230: IBU mimo toleranci ±5 % (cíl 250,0, vychází 211,2 i s faktorem alfy 0,3–3,0)
+diydog-232: IBU mimo toleranci ±5 % (cíl 40,0, vychází 34,5 i s faktorem alfy 0,3–3,0)
+diydog-237: OG: výtěžnost mimo 30–100 % (cíl 1,039, při 30 % vychází 1,042)
+diydog-239: IBU mimo toleranci ±5 % (cíl 100,0, vychází 20,1 i s faktorem alfy 0,3–3,0)
+diydog-247: IBU mimo toleranci ±5 % (cíl 75,0, vychází 71,0 i s faktorem alfy 0,3–3,0)
+diydog-248: IBU mimo toleranci ±5 % (cíl 80,0, vychází 0,0 i s faktorem alfy 0,3–3,0)
+diydog-249: IBU mimo toleranci ±5 % (cíl 250,0, vychází 211,2 i s faktorem alfy 0,3–3,0)
+diydog-252: OG: výtěžnost mimo 30–100 % (cíl 1,049, při 30 % vychází 1,086)
+diydog-256: IBU mimo toleranci ±5 % (cíl 35,0, vychází 1,9 i s faktorem alfy 0,3–3,0)
+diydog-257: IBU mimo toleranci ±5 % (cíl 70,0, vychází 22,0 i s faktorem alfy 0,3–3,0)
+diydog-260: IBU mimo toleranci ±5 % (cíl 45,0, vychází 0,0 i s faktorem alfy 0,3–3,0)
+diydog-261: IBU mimo toleranci ±5 % (cíl 80,0, vychází 74,1 i s faktorem alfy 0,3–3,0)
+diydog-262: IBU mimo toleranci ±5 % (cíl 35,0, vychází 1,9 i s faktorem alfy 0,3–3,0)
+diydog-263: OG: výtěžnost mimo 30–100 % (cíl 1,049, při 30 % vychází 1,051)
+diydog-266: IBU mimo toleranci ±5 % (cíl 5,0, vychází 0,0 i s faktorem alfy 0,3–3,0)
+diydog-267: IBU mimo toleranci ±5 % (cíl 70,0, vychází 64,3 i s faktorem alfy 0,3–3,0)
+diydog-268: IBU mimo toleranci ±5 % (cíl 30,0, vychází 0,9 i s faktorem alfy 0,3–3,0)
+diydog-270: IBU mimo toleranci ±5 % (cíl 55,0, vychází 16,1 i s faktorem alfy 0,3–3,0)
+diydog-271: IBU mimo toleranci ±5 % (cíl 8,0, vychází 0,0 i s faktorem alfy 0,3–3,0)
+diydog-275: OG: výtěžnost mimo 30–100 % (cíl 1,055, při 30 % vychází 1,059)
+diydog-276: IBU mimo toleranci ±5 % (cíl 35,0, vychází 25,0 i s faktorem alfy 0,3–3,0)
+diydog-277: IBU mimo toleranci ±5 % (cíl 15,0, vychází 21,3 i s faktorem alfy 0,3–3,0)
+diydog-279: IBU mimo toleranci ±5 % (cíl 50,0, vychází 39,9 i s faktorem alfy 0,3–3,0)
+diydog-28: OG: výtěžnost mimo 30–100 % (cíl 1,013, při 30 % vychází 1,030)
+diydog-280: IBU mimo toleranci ±5 % (cíl 35,0, vychází 28,1 i s faktorem alfy 0,3–3,0)
+diydog-281: IBU mimo toleranci ±5 % (cíl 132,0, vychází 90,1 i s faktorem alfy 0,3–3,0)
+diydog-282: OG: výtěžnost mimo 30–100 % (cíl 1,055, při 30 % vychází 1,060)
+diydog-29: IBU mimo toleranci ±5 % (cíl 70,0, vychází 64,3 i s faktorem alfy 0,3–3,0)
+diydog-294: IBU mimo toleranci ±5 % (cíl 20,0, vychází 5,2 i s faktorem alfy 0,3–3,0)
+diydog-296: IBU mimo toleranci ±5 % (cíl 50,0, vychází 43,7 i s faktorem alfy 0,3–3,0)
+diydog-297: IBU mimo toleranci ±5 % (cíl 15,0, vychází 0,0 i s faktorem alfy 0,3–3,0)
+diydog-30: IBU mimo toleranci ±5 % (cíl 70,0, vychází 54,2 i s faktorem alfy 0,3–3,0)
+diydog-301: OG: výtěžnost mimo 30–100 % (cíl 1,042, při 30 % vychází 1,052)
+diydog-302: IBU mimo toleranci ±5 % (cíl 30,0, vychází 0,9 i s faktorem alfy 0,3–3,0)
+diydog-303: IBU mimo toleranci ±5 % (cíl 30,0, vychází 0,9 i s faktorem alfy 0,3–3,0)
+diydog-307: OG: výtěžnost mimo 30–100 % (cíl 1,071, při 30 % vychází 1,077)
+diydog-308: IBU mimo toleranci ±5 % (cíl 25,0, vychází 22,2 i s faktorem alfy 0,3–3,0)
+diydog-313: OG: výtěžnost mimo 30–100 % (cíl 1,116, při 30 % vychází 1,134)
+diydog-316: OG: výtěžnost mimo 30–100 % (cíl 1,060, při 30 % vychází 1,068)
+diydog-317: IBU mimo toleranci ±5 % (cíl 65,0, vychází 43,6 i s faktorem alfy 0,3–3,0)
+diydog-318: OG: výtěžnost mimo 30–100 % (cíl 1,048, při 30 % vychází 1,057)
+diydog-319: OG: výtěžnost mimo 30–100 % (cíl 1,052, při 30 % vychází 1,059)
+diydog-320: IBU mimo toleranci ±5 % (cíl 20,0, vychází 5,2 i s faktorem alfy 0,3–3,0)
+diydog-321: IBU mimo toleranci ±5 % (cíl 35,0, vychází 29,9 i s faktorem alfy 0,3–3,0)
+diydog-324: OG: výtěžnost mimo 30–100 % (cíl 1,052, při 30 % vychází 1,056)
+diydog-325: OG: výtěžnost mimo 30–100 % (cíl 1,044, při 30 % vychází 1,054)
+diydog-33: IBU mimo toleranci ±5 % (cíl 75,0, vychází 35,6 i s faktorem alfy 0,3–3,0)
+diydog-41: IBU mimo toleranci ±5 % (cíl 100,0, vychází 35,2 i s faktorem alfy 0,3–3,0)
+diydog-43: OG: výtěžnost mimo 30–100 % (cíl 1,047, při 30 % vychází 1,048)
+diydog-49: OG: výtěžnost mimo 30–100 % (cíl 1,094, při 30 % vychází 1,120)
+diydog-6: IBU mimo toleranci ±5 % (cíl 38,0, vychází 30,7 i s faktorem alfy 0,3–3,0)
+diydog-61: IBU mimo toleranci ±5 % (cíl 30,0, vychází 0,0 i s faktorem alfy 0,3–3,0)
+diydog-64: IBU mimo toleranci ±5 % (cíl 35,0, vychází 27,4 i s faktorem alfy 0,3–3,0)
+diydog-65: IBU mimo toleranci ±5 % (cíl 50,0, vychází 36,4 i s faktorem alfy 0,3–3,0)
+diydog-68: IBU mimo toleranci ±5 % (cíl 65,0, vychází 6,2 i s faktorem alfy 0,3–3,0)
+diydog-69: IBU mimo toleranci ±5 % (cíl 55,0, vychází 52,2 i s faktorem alfy 0,3–3,0)
+diydog-70: OG: výtěžnost mimo 30–100 % (cíl 1,026, při 30 % vychází 1,065)
+diydog-78: IBU mimo toleranci ±5 % (cíl 80,0, vychází 71,5 i s faktorem alfy 0,3–3,0)
+diydog-81: OG: výtěžnost mimo 30–100 % (cíl 1,040, při 30 % vychází 1,051)
+diydog-84: OG: výtěžnost mimo 30–100 % (cíl 1,032, při 30 % vychází 1,084)
+diydog-89: IBU mimo toleranci ±5 % (cíl 70,0, vychází 25,0 i s faktorem alfy 0,3–3,0)
+diydog-9: OG: výtěžnost mimo 30–100 % (cíl 1,106, při 30 % vychází 1,136)
+
+== Poznámky k převodu ==
+diydog-1: alfa ×0,76
+diydog-10: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-10: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-10: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-10: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-100: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-100: alfa ×3,00
+diydog-101: alfa ×0,76
+diydog-103: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-103: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-103: alfa ×2,16
+diydog-104: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-104: alfa ×3,00
+diydog-105: Chmel „Bramling Cross/ First Gold“ není v katalogu – alfa se kalibruje
+diydog-105: alfa ×0,75
+diydog-106: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-106: alfa ×0,56
+diydog-108: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-108: alfa ×2,16
+diydog-109: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-109: alfa ×1,85
+diydog-11: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-11: „Honey“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 75 %)
+diydog-11: „Lactose“ není chmel – laktóza nezkvasí, přidána jako přísada (nepočítá se do OG)
+diydog-11: alfa ×1,13
+diydog-110: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-110: Slad „Special W“ není v katalogu – výchozí 75 % / 300 EBC
+diydog-110: alfa ×1,23
+diydog-111: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-111: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-111: alfa ×2,77
+diydog-112: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-112: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-112: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-112: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-113: Chmel „Bramling Cross/ First Gold“ není v katalogu – alfa se kalibruje
+diydog-113: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-113: alfa ×0,75
+diydog-114: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-114: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-114: Slad „Smoked Warminster“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-114: alfa ×3,00
+diydog-115: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-115: alfa ×3,00
+diydog-116: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-116: Slad „Ginger Root“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-116: alfa ×1,36
+diydog-117: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-117: Kvasnice „Saflager S189“ nejsou v katalogu
+diydog-117: alfa ×2,46
+diydog-119: Slad „Organic Lager“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-119: Slad „Organic Caramalt“ není v katalogu – výchozí 75 % / 60 EBC
+diydog-119: Slad „Organic Munich“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-119: Slad „Organic Chocolate“ není v katalogu – výchozí 70 % / 900 EBC
+diydog-119: Kvasnice „Saflager S189“ nejsou v katalogu
+diydog-119: alfa ×1,53
+diydog-12: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-12: alfa ×1,50
+diydog-121: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-121: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-121: alfa ×0,94
+diydog-122: Slad „Extra Pale - Spring Blend“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-122: alfa ×0,69
+diydog-123: alfa ×1,15
+diydog-124: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-124: alfa ×3,00
+diydog-125: „Juniper Berries“ není chmel – přidáno jako přísada
+diydog-125: alfa ×1,14
+diydog-126: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-126: alfa ×1,97
+diydog-13: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-13: alfa ×1,48
+diydog-133: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-133: „Coffee“ není chmel – přidáno jako přísada
+diydog-133: „Coffee“ není chmel – přidáno jako přísada
+diydog-133: alfa ×0,65
+diydog-134: alfa ×0,94
+diydog-136: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-136: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-136: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-136: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-136: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-138: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-138: „Coffee beans“ není chmel – přidáno jako přísada
+diydog-138: „Coffee beans“ není chmel – přidáno jako přísada
+diydog-138: alfa ×1,68
+diydog-139: Chmel „C02 Extract“ není v katalogu – alfa se kalibruje
+diydog-139: alfa ×1,29
+diydog-14: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-14: alfa ×1,95
+diydog-140: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-140: Chmel „Pioneer“ není v katalogu – alfa se kalibruje
+diydog-140: Chmel „Pioneer“ není v katalogu – alfa se kalibruje
+diydog-140: Chmel „Pioneer“ není v katalogu – alfa se kalibruje
+diydog-141: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-141: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-141: Slad „Cascara“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-141: „Cascara“ není chmel – přidáno jako přísada
+diydog-141: alfa ×1,76
+diydog-142: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-142: alfa ×1,43
+diydog-143: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-143: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-143: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-143: alfa ×1,15
+diydog-144: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-145: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-145: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-145: Chmel „Ella“ není v katalogu – alfa se kalibruje
+diydog-145: Chmel „Ella“ není v katalogu – alfa se kalibruje
+diydog-145: Chmel „Ella“ není v katalogu – alfa se kalibruje
+diydog-145: Chmel „Ella“ není v katalogu – alfa se kalibruje
+diydog-146: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-146: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-146: alfa ×1,70
+diydog-148: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-148: alfa ×2,26
+diydog-150: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-150: alfa ×1,07
+diydog-151: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-151: Kvasnice „Wyeast 3711 - French Saison™“ nejsou v katalogu
+diydog-151: alfa ×0,64
+diydog-153: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-153: alfa ×1,49
+diydog-155: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-155: Chmel „Hercules“ není v katalogu – alfa se kalibruje
+diydog-155: alfa ×1,16
+diydog-157: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-157: Chmel „Pacific Hallertau“ není v katalogu – alfa se kalibruje
+diydog-157: Chmel „Pacific Hallertau“ není v katalogu – alfa se kalibruje
+diydog-157: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-157: Chmel „Pacific Hallertau“ není v katalogu – alfa se kalibruje
+diydog-157: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-158: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-158: Chmel „Vic Secret“ není v katalogu – alfa se kalibruje
+diydog-158: Chmel „Kohatu“ není v katalogu – alfa se kalibruje
+diydog-158: Chmel „Vic Secret“ není v katalogu – alfa se kalibruje
+diydog-158: alfa ×1,73
+diydog-16: Slad „Extra Pale - Spring Blend“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-16: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-161: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-161: alfa ×0,79
+diydog-162: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-162: alfa ×0,74
+diydog-165: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-165: alfa ×0,89
+diydog-166: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-166: alfa ×1,92
+diydog-167: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-167: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-167: alfa ×1,18
+diydog-170: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-170: Chmel „Hercules“ není v katalogu – alfa se kalibruje
+diydog-170: Chmel „Hercules“ není v katalogu – alfa se kalibruje
+diydog-170: alfa ×1,30
+diydog-171: Slad „Extra Pale - Spring Blend“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-171: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-171: alfa ×1,11
+diydog-173: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-173: alfa ×1,73
+diydog-174: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-174: alfa ×1,33
+diydog-175: alfa ×0,93
+diydog-176: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-176: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-176: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-177: „Ginger Powder“ není chmel – přidáno jako přísada
+diydog-177: „Honey“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 75 %)
+diydog-177: „Cold Infused Coffee“ není chmel – přidáno jako přísada
+diydog-177: alfa ×2,27
+diydog-179: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-179: Slad „Pale Crystal 60“ není v katalogu – výchozí 75 % / 60 EBC
+diydog-179: alfa ×0,77
+diydog-18: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-18: alfa ×3,00
+diydog-182: alfa ×3,00
+diydog-184: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-184: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-184: alfa ×0,59
+diydog-186: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-186: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-186: „Jasmine“ není chmel – přidáno jako přísada
+diydog-186: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-186: „Jasmine“ není chmel – přidáno jako přísada
+diydog-187: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-187: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-187: alfa ×1,57
+diydog-188: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-188: alfa ×0,68
+diydog-189: Slad „Extra Pale - Spring Blend“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-189: „Ginger Powder“ není chmel – přidáno jako přísada
+diydog-189: alfa ×0,90
+diydog-190: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-190: „Blueberries“ není chmel – přidáno jako přísada
+diydog-190: alfa ×1,48
+diydog-191: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-191: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-191: alfa ×1,10
+diydog-192: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-192: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-192: alfa ×0,94
+diydog-194: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-194: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-194: alfa ×1,14
+diydog-195: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-195: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-195: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-195: alfa ×1,15
+diydog-196: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-196: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-196: Slad „Smoked Warminster“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-196: „Coffee“ není chmel – přidáno jako přísada
+diydog-196: alfa ×1,89
+diydog-198: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-198: Kvasnice „Westvleteren 12 (recovered from a bottle)“ nejsou v katalogu
+diydog-198: alfa ×2,08
+diydog-199: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-199: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-199: Slad „Special W“ není v katalogu – výchozí 75 % / 300 EBC
+diydog-199: alfa ×2,53
+diydog-2: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-2: alfa ×1,10
+diydog-20: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-20: alfa ×1,52
+diydog-200: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-200: alfa ×2,16
+diydog-202: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-202: „Coffee“ není chmel – přidáno jako přísada
+diydog-202: „Coffee“ není chmel – přidáno jako přísada
+diydog-202: alfa ×1,68
+diydog-203: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-203: Slad „Pinhead Oats“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-203: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-203: Chmel „Pacific Gem“ není v katalogu – alfa se kalibruje
+diydog-203: alfa ×1,28
+diydog-204: Slad „Propino Pale Malt“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-204: Slad „Dextrin Malt“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-204: alfa ×2,47
+diydog-205: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-205: alfa ×1,35
+diydog-206: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-206: Slad „Flaked Malted Oats“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-206: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-206: Chmel „Mt.Hood“ není v katalogu – alfa se kalibruje
+diydog-206: Chmel „Mt.Hood“ není v katalogu – alfa se kalibruje
+diydog-206: Kvasnice „Wyeast 3711 - French Saison™“ nejsou v katalogu
+diydog-207: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-207: „Bay Leaves“ není chmel – přidáno jako přísada
+diydog-207: „Rosemary“ není chmel – přidáno jako přísada
+diydog-207: „Elderflower“ není chmel – přidáno jako přísada
+diydog-208: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-208: alfa ×1,19
+diydog-21: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-21: Chmel „Waimea“ není v katalogu – alfa se kalibruje
+diydog-21: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-21: Chmel „Waimea“ není v katalogu – alfa se kalibruje
+diydog-21: alfa ×2,60
+diydog-210: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-210: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-210: alfa ×0,91
+diydog-211: Slad „Extra Pale - Spring Blend“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-211: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-211: alfa ×0,67
+diydog-215: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-215: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-217: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-217: alfa ×1,42
+diydog-22: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-22: alfa ×1,06
+diydog-220: alfa ×1,91
+diydog-23: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-23: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-23: alfa ×1,19
+diydog-231: alfa ×1,99
+diydog-233: alfa ×1,91
+diydog-234: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-234: „Habanero powder“ není chmel – přidáno jako přísada
+diydog-234: „Coriander seed“ není chmel – přidáno jako přísada
+diydog-234: alfa ×1,41
+diydog-235: „Coriander Seed“ není chmel – přidáno jako přísada
+diydog-235: „Mango“ není chmel – přidáno jako přísada
+diydog-235: „1 lemon drop chilli“: neznámá jednotka „total“ – bráno jako g
+diydog-235: „1 lemon drop chilli“ není chmel – přidáno jako přísada
+diydog-238: alfa ×1,55
+diydog-24: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-240: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-240: „Coriander“ není chmel – přidáno jako přísada
+diydog-240: „Peppercorn“ není chmel – přidáno jako přísada
+diydog-240: Kvasnice „Wyeast 3711 - French Saison™“ nejsou v katalogu
+diydog-241: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-241: Chmel „Enigma“ není v katalogu – alfa se kalibruje
+diydog-241: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-241: Chmel „Enigma“ není v katalogu – alfa se kalibruje
+diydog-241: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-241: Chmel „Enigma“ není v katalogu – alfa se kalibruje
+diydog-241: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-241: alfa ×2,19
+diydog-242: Neznámé přidání chmele „Mash“ – bráno jako začátek varu
+diydog-242: Neznámé přidání chmele „Mash“ – bráno jako začátek varu
+diydog-242: alfa ×1,37
+diydog-243: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-243: „Juniper Berry“ není chmel – přidáno jako přísada
+diydog-243: „Coriander“ není chmel – přidáno jako přísada
+diydog-243: „Orange Peel“ není chmel – přidáno jako přísada
+diydog-244: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-244: Slad „Double Roasted Crystal“ není v katalogu – výchozí 70 % / 900 EBC
+diydog-244: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-244: alfa ×3,00
+diydog-245: alfa ×1,17
+diydog-246: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-246: Chmel „Equinox“ není v katalogu – alfa se kalibruje
+diydog-246: Chmel „Equinox“ není v katalogu – alfa se kalibruje
+diydog-246: Chmel „Equinox“ není v katalogu – alfa se kalibruje
+diydog-246: Chmel „Equinox“ není v katalogu – alfa se kalibruje
+diydog-25: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-25: alfa ×2,70
+diydog-250: alfa ×1,70
+diydog-251: Slad „Crisp Rye“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-251: alfa ×0,86
+diydog-253: Slad „Propino Pale Malt“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-253: Slad „Premium English Caramalt“ není v katalogu – výchozí 75 % / 60 EBC
+diydog-253: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-254: Slad „Propino Pale Malt“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-254: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-254: alfa ×3,00
+diydog-255: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-255: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-255: „Ginger Powder“ není chmel – přidáno jako přísada
+diydog-255: „Pink Peppercorns“ není chmel – přidáno jako přísada
+diydog-255: „Bitter Orange Peel“ není chmel – přidáno jako přísada
+diydog-255: „Oat Husks“ není chmel – přidáno jako přísada
+diydog-258: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-258: alfa ×1,34
+diydog-259: Slad „Propino Pale Malt“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-259: Slad „Premium English Caramalt“ není v katalogu – výchozí 75 % / 60 EBC
+diydog-259: „Sweet Orange Peel“ není chmel – přidáno jako přísada
+diydog-259: alfa ×1,48
+diydog-26: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-26: Slad „Crystal 120“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-26: alfa ×1,58
+diydog-264: Slad „Uncrushed Wheat“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-264: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-264: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-264: alfa ×0,32
+diydog-265: „Apricot Juice“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-265: „Peach Juice“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-265: alfa ×1,15
+diydog-269: Chmel „Ariana“ není v katalogu – alfa se kalibruje
+diydog-269: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-269: Chmel „Ariana“ není v katalogu – alfa se kalibruje
+diydog-269: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-27: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-27: „Coffee“ není chmel – přidáno jako přísada
+diydog-27: „Coffee“ není chmel – přidáno jako přísada
+diydog-27: alfa ×1,74
+diydog-272: Slad „Spelt“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-272: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-272: „Golden Honey“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 75 %)
+diydog-272: alfa ×1,36
+diydog-274: alfa ×1,26
+diydog-278: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-278: Slad „Double Roasted Crystal“ není v katalogu – výchozí 70 % / 900 EBC
+diydog-278: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-278: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-278: „Honey“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 75 %)
+diydog-278: „American Oak Chips Medium Toast Soaked in Bourbon“ není chmel – přidáno jako přísada
+diydog-283: Neznámé přidání chmele „Kettle“ – bráno jako začátek varu
+diydog-283: Slad „Double Roasted Crystal“ není v katalogu – výchozí 70 % / 900 EBC
+diydog-283: Slad „Oat Husks“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-283: „Muscovado Sugar“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 100 %)
+diydog-283: „Ground Coffee“ není chmel – přidáno jako přísada
+diydog-283: „Cold Brew Coffee“: neznámá jednotka „ml“ – bráno jako g
+diydog-283: „Cold Brew Coffee“ není chmel – přidáno jako přísada
+diydog-283: alfa ×1,33
+diydog-284: alfa ×1,38
+diydog-285: „Blueberry Juice“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-285: alfa ×1,38
+diydog-286: „Fresh Strawberries“ není chmel – přidáno jako přísada
+diydog-286: alfa ×1,38
+diydog-287: „Blackcurrant Concentrate“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-287: alfa ×1,38
+diydog-288: „Lingonberry Juice“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-288: alfa ×1,38
+diydog-289: „Seville Orange Juice“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-289: alfa ×1,38
+diydog-290: „Elderflower Concentrate“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-290: alfa ×1,38
+diydog-291: „Lemon Juice“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-291: alfa ×1,38
+diydog-292: Neznámé přidání chmele „Mash“ – bráno jako začátek varu
+diydog-292: „Mandarin Segements“ není chmel – přidáno jako přísada
+diydog-292: alfa ×1,38
+diydog-293: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-293: Slad „Dextrin Malt“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-293: Slad „Double Roasted Crystal“ není v katalogu – výchozí 70 % / 900 EBC
+diydog-293: „American Oak Chips Medium Toast soaked in Speyside Whisky“ není chmel – přidáno jako přísada
+diydog-293: „American Oak Chips Heavy Toast soaked in Speyside Whisky“ není chmel – přidáno jako přísada
+diydog-293: alfa ×1,68
+diydog-295: „Cinnamon Powder“ není chmel – přidáno jako přísada
+diydog-295: „Cocoa Nibs“ není chmel – přidáno jako přísada
+diydog-295: „Vanilla Extract“ není chmel – přidáno jako přísada
+diydog-295: „Ground Coffee“ není chmel – přidáno jako přísada
+diydog-295: „Habenero Powder“ není chmel – přidáno jako přísada
+diydog-295: alfa ×2,01
+diydog-298: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-298: alfa ×0,92
+diydog-299: Neznámé přidání chmele „Kettle“ – bráno jako začátek varu
+diydog-299: „Raspberry Juice“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-299: alfa ×3,00
+diydog-3: Slad „Propino Pale Malt“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-3: Slad „Propino Pale Malt for kettle souring“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-3: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-300: alfa ×1,61
+diydog-304: alfa ×3,00
+diydog-305: alfa ×1,23
+diydog-306: Slad „Double Roasted Crystal“ není v katalogu – výchozí 70 % / 900 EBC
+diydog-306: alfa ×1,51
+diydog-309: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-309: alfa ×1,34
+diydog-31: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-31: alfa ×1,07
+diydog-310: „Tangerine Extract“ není chmel – přidáno jako přísada
+diydog-310: alfa ×1,88
+diydog-311: Chmel „German Cascade“ není v katalogu – alfa se kalibruje
+diydog-311: Chmel „Ariana“ není v katalogu – alfa se kalibruje
+diydog-311: Chmel „Huell Melon“ není v katalogu – alfa se kalibruje
+diydog-311: Chmel „German Comet“ není v katalogu – alfa se kalibruje
+diydog-311: alfa ×0,75
+diydog-312: „Ginger Powder“ není chmel – přidáno jako přísada
+diydog-312: „Cold infused coffee“ není chmel – přidáno jako přísada
+diydog-312: „Honey“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 75 %)
+diydog-312: „Habanero“ není chmel – přidáno jako přísada
+diydog-312: „Lemon drop chili“ není chmel – přidáno jako přísada
+diydog-312: alfa ×2,15
+diydog-314: Slad „Uncrushed Wheat“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-314: Chmel „Idaho 7“ není v katalogu – alfa se kalibruje
+diydog-314: „Mango Puree“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-314: alfa ×1,52
+diydog-315: Slad „Munich Type 1 Light“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-315: Slad „Double Roasted Crystal“ není v katalogu – výchozí 70 % / 900 EBC
+diydog-315: Chmel „Saphire“ není v katalogu – alfa se kalibruje
+diydog-315: „Plum Concentrate“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-315: Kvasnice „Wyeast 2126 - Bohemian Lager™“ nejsou v katalogu
+diydog-315: alfa ×2,43
+diydog-32: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-32: Slad „Pale Crystal“ není v katalogu – výchozí 75 % / 60 EBC
+diydog-32: alfa ×1,83
+diydog-322: Slad „Dextrin Malt“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-322: alfa ×1,31
+diydog-323: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-323: Kvasnice „Wyeast 2126 - Bohemian Lager™“ nejsou v katalogu
+diydog-323: alfa ×3,00
+diydog-34: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-34: Slad „Weyermann Beech Smoked“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-34: alfa ×1,47
+diydog-35: Slad „Propino Pale Malt“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-35: Slad „Propino Pale Malt for kettle souring“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-35: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-36: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-36: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-36: alfa ×0,95
+diydog-37: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-37: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-37: Chmel „Columbus Extract“ není v katalogu – alfa se kalibruje
+diydog-38: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-38: Kvasnice „WLP500 - Monastery Ale“ nejsou v katalogu
+diydog-38: alfa ×2,16
+diydog-39: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-39: Chmel „Kohatu“ není v katalogu – alfa se kalibruje
+diydog-39: Chmel „Kohatu“ není v katalogu – alfa se kalibruje
+diydog-39: Chmel „Kohatu“ není v katalogu – alfa se kalibruje
+diydog-39: Chmel „Kohatu“ není v katalogu – alfa se kalibruje
+diydog-4: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-4: alfa ×2,16
+diydog-40: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-40: „Blackberry Concentrate“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-40: „Sour Cherry Puree“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 15 %)
+diydog-40: alfa ×1,80
+diydog-42: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-42: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-42: Chmel „Columbus Extract“ není v katalogu – alfa se kalibruje
+diydog-44: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-44: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-44: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-44: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-44: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-45: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-45: Slad „Crystal 120“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-45: Chmel „Bramling Cross“ není v katalogu – alfa se kalibruje
+diydog-45: alfa ×1,29
+diydog-46: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-46: alfa ×1,55
+diydog-47: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-47: Slad „Popcorn“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-48: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-48: alfa ×2,25
+diydog-5: alfa ×1,14
+diydog-50: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-50: Slad „Pale Chocolate“ není v katalogu – výchozí 70 % / 900 EBC
+diydog-50: alfa ×1,51
+diydog-51: Chmel „Bobek“ není v katalogu – alfa se kalibruje
+diydog-51: Chmel „Bobek“ není v katalogu – alfa se kalibruje
+diydog-51: Chmel „Bobek“ není v katalogu – alfa se kalibruje
+diydog-51: „Ginger“ není chmel – přidáno jako přísada
+diydog-51: „Orange Peel“ není chmel – přidáno jako přísada
+diydog-51: Kvasnice „Wyeast 3711 - French Saison™“ nejsou v katalogu
+diydog-52: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-52: alfa ×0,48
+diydog-53: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-53: Slad „Weyermann Beech Smoked“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-53: alfa ×1,32
+diydog-54: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-54: alfa ×1,42
+diydog-55: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-55: alfa ×2,00
+diydog-56: Slad „Extra Pale - Spring Blend“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-56: alfa ×1,31
+diydog-57: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-57: alfa ×1,17
+diydog-58: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-58: „Coffee“ není chmel – přidáno jako přísada
+diydog-58: „Coffee“ není chmel – přidáno jako přísada
+diydog-58: alfa ×1,20
+diydog-59: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-59: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-59: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-59: Chmel „Mandarina Bavaria“ není v katalogu – alfa se kalibruje
+diydog-60: alfa ×0,76
+diydog-62: Slad „Smoked Peaty“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-62: „Coffee Beans“ není chmel – přidáno jako přísada
+diydog-62: alfa ×1,39
+diydog-63: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-66: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-66: alfa ×0,79
+diydog-67: alfa ×1,06
+diydog-7: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-7: alfa ×0,65
+diydog-71: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-71: alfa ×2,11
+diydog-72: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-72: Slad „Special W“ není v katalogu – výchozí 75 % / 300 EBC
+diydog-72: alfa ×0,77
+diydog-73: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-73: alfa ×1,55
+diydog-74: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-74: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-74: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-74: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-74: alfa ×1,76
+diydog-75: Slad „Extra Pale - Spring Blend“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-75: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-75: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-76: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-76: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-76: alfa ×1,12
+diydog-77: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-77: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-77: alfa ×1,75
+diydog-79: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-79: alfa ×1,49
+diydog-8: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-8: alfa ×1,75
+diydog-80: „Coffee Beans“ není chmel – přidáno jako přísada
+diydog-80: alfa ×1,36
+diydog-82: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-82: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-82: alfa ×1,17
+diydog-83: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-83: Chmel „Comet“ není v katalogu – alfa se kalibruje
+diydog-83: Chmel „Comet“ není v katalogu – alfa se kalibruje
+diydog-83: Chmel „Comet“ není v katalogu – alfa se kalibruje
+diydog-83: Chmel „Comet“ není v katalogu – alfa se kalibruje
+diydog-85: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-85: Slad „Weyermann Beech Smoked“ není v katalogu – výchozí 75 % / 10 EBC
+diydog-85: alfa ×1,31
+diydog-86: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-86: Chmel „Bobek“ není v katalogu – alfa se kalibruje
+diydog-86: „Guarana Powder“ není chmel – přidáno jako přísada
+diydog-86: „Kola Nut Powder“ není chmel – přidáno jako přísada
+diydog-86: „Poppy Seed“ není chmel – přidáno jako přísada
+diydog-86: „Heather Honey“ není chmel – přidáno jako zkvasitelná surovina (výtěžnost 75 %)
+diydog-86: alfa ×2,33
+diydog-87: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-88: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-88: alfa ×2,16
+diydog-90: Slad „Special W“ není v katalogu – výchozí 75 % / 300 EBC
+diydog-91: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-91: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-91: alfa ×1,21
+diydog-92: Slad „Crystal 150“ není v katalogu – výchozí 75 % / 150 EBC
+diydog-92: alfa ×2,04
+diydog-93: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-93: alfa ×2,69
+diydog-94: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-94: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-94: Chmel „Bobek“ není v katalogu – alfa se kalibruje
+diydog-94: Chmel „Bobek“ není v katalogu – alfa se kalibruje
+diydog-94: Kvasnice „Wyeast 3711 - French Saison™“ nejsou v katalogu
+diydog-95: alfa ×1,40
+diydog-96: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-96: alfa ×0,69
+diydog-97: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-97: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-97: Chmel „Motueka“ není v katalogu – alfa se kalibruje
+diydog-97: alfa ×1,31
+diydog-98: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-98: alfa ×1,18
+diydog-99: Slad „Extra Pale“ není v katalogu – výchozí 80 % / 5 EBC
+diydog-99: Chmel „Comet“ není v katalogu – alfa se kalibruje
+diydog-99: Chmel „EXP 366“ není v katalogu – alfa se kalibruje
+diydog-99: Chmel „Comet“ není v katalogu – alfa se kalibruje
